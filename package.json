@@ -1,0 +1,19 @@
+{
+  "name": "api-notorium",
+  "version": "1.0.0",
+  "description": "API desarrollada para la aplicacion notorium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsvaldoNegrellos14/backend-nodejs-api.git"
+  },
+  "author": "DIMAA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsvaldoNegrellos14/backend-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/OsvaldoNegrellos14/backend-nodejs-api#readme"
+}
